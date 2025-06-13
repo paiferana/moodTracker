@@ -1,1 +1,2 @@
 # moodTracker
+Aplicação diário
